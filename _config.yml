@@ -1,3 +1,4 @@
-title: Mohammed
-show_download: true
-theme: jekyll-theme-minimal
+title: Mohammed Salim
+description: AI Engineer | Educator | Researcher
+theme: minima
+markdown: kramdown
